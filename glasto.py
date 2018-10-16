@@ -2,7 +2,7 @@ import time
 from worker import worker
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-import multithreading
+import threading
 
 
 
@@ -23,10 +23,10 @@ if __name__ == '__main__':
 
 
     jobs = []
-    return_que = multithreading.Queue()
+    return_que = threading.Queue()
 
     for i in range(0, WORKER_COUNT):
-        p = multithreading.Process(target=worker, args=(opts, return_que, proxys[i]))
+        p = threading.Process(target=worker, args=(opts, return_que, proxys[i]))
         jobs.append(p)
         p.start()
 
