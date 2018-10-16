@@ -2,10 +2,10 @@ import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
-def worker(path, opts, return_que, PROXY):
+def worker(opts, return_que, PROXY):
     print("Creating Driver")
     opts.add_argument('--proxy-server=%s' % PROXY)
-    driver = webdriver.Chrome(path, chrome_options=opts)
+    driver = webdriver.Firefox(chrome_options=opts)
 
     while True:
         try:
