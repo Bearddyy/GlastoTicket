@@ -26,7 +26,7 @@ if __name__ == '__main__':
     return_que = multiprocessing.Queue()
 
     for i in range(0, WORKER_COUNT):
-        p = multiprocessing.Process(target=worker, args=(path, opts, return_que, proxys[i]))
+        p = multiprocessing.Process(target=worker, args=(opts, return_que, proxys[i]))
         jobs.append(p)
         p.start()
 
@@ -46,7 +46,7 @@ if __name__ == '__main__':
     opts = Options()
     opts.add_argument("user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37")
 
-    driver = webdriver.Firefox(path, chrome_options=opts)
+    driver = webdriver.Firefox(path, firefox_options=opts)
     driver.get("http://www.google.com")
     driver.add_cookie(cookie)
     #Get the raw page first to check if it changes
