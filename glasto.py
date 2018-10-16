@@ -2,13 +2,13 @@ import time
 from worker import worker
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-import multiprocessing
+import multithreading
 
 
 
 
 if __name__ == '__main__':
-    WORKER_COUNT = multiprocessing.cpu_count()
+    WORKER_COUNT = 4
     opts = Options()
     opts.add_argument("user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37")
     #opts.add_argument("headless")
