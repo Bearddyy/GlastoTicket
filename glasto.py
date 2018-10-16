@@ -25,10 +25,6 @@ if __name__ == '__main__':
     jobs = []
     return_que = multiprocessing.Queue()
 
-    #Test code
-    driver = webdriver.Firefox(firefox_options=opts)
-    driver.get("www.google.com")
-
     for i in range(0, WORKER_COUNT):
         p = multiprocessing.Process(target=worker, args=(opts, return_que, proxys[i]))
         jobs.append(p)
