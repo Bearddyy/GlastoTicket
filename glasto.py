@@ -23,10 +23,10 @@ if __name__ == '__main__':
 
 
     jobs = []
-    return_que = multiprocessing.Queue()
+    return_que = multithreading.Queue()
 
     for i in range(0, WORKER_COUNT):
-        p = multiprocessing.Process(target=worker, args=(opts, return_que, proxys[i]))
+        p = multithreading.Process(target=worker, args=(opts, return_que, proxys[i]))
         jobs.append(p)
         p.start()
 
