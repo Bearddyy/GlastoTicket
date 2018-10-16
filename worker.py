@@ -12,8 +12,7 @@ def worker(opts, return_que, PROXY):
             current_site = driver.get('https://glastonbury.seetickets.com/content/extras')
             if "buy" in current_site:
                 break
-        except e:
-            print(e)
+        except:
             continue
 
     print("Page Loaded")
