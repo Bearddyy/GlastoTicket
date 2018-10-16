@@ -23,31 +23,11 @@ if __name__ == '__main__':
 
 
     jobs = []
-    return_que = threading.Queue()
 
     for i in range(0, WORKER_COUNT):
-        p = threading.Process(target=worker, args=(opts, return_que, proxys[i]))
+        p = threading.Thread(target=worker, args=(opts, proxys[i]))
         jobs.append(p)
         p.start()
 
-    notDone = True
-    while notDone:
-        try:
-            cookie = return_que.get()
-            print(cookie)
-            cookie = cookie[0]
-            notDone = False
-        except:
-            continue
-
-    print("Got cookie")
-    print(cookie)
-
-    opts = Options()
-    opts.add_argument("user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37")
-
-    driver = webdriver.Firefox(path, firefox_options=opts)
-    driver.get("http://www.google.com")
-    driver.add_cookie(cookie)
-    #Get the raw page first to check if it changes
-    base_page_html = driver.get('https://glastonbury.seetickets.com/content/extras');
+    while True:
+        time.sleep(100)

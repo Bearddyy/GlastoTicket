@@ -2,7 +2,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
-def worker(opts, return_que, PROXY):
+def worker(opts, PROXY):
     print("Creating Driver")
     opts.add_argument('--proxy-server=%s' % PROXY)
     driver = webdriver.Firefox(firefox_options=opts)
@@ -18,7 +18,4 @@ def worker(opts, return_que, PROXY):
     print("Page Loaded")
     while True:
         do = None
-
-    cookies = driver.get_cookies()
-    return_que.put(cookies)
     print("done")
