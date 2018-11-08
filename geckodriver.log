@@ -1,0 +1,650 @@
+1539689870309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.397OZXGbMHcH"
+Error: no DISPLAY environment variable specified
+1539690053857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pe3GMfP1cYHp"
+Error: no DISPLAY environment variable specified
+1539690100240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Vr3wimwedFUn"
+1539690104464	Marionette	INFO	Listening on port 38595
+1539690104582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539690104633	Marionette	DEBUG	[2147483649] Frame script loaded
+1539690104639	Marionette	DEBUG	[2147483649] Frame script registered
+1539690165045	Marionette	INFO	Stopped listening on port 38595
+1539690168755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r2elpEWFZy3E"
+1539690172702	Marionette	INFO	Listening on port 33119
+1539690172806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539690172854	Marionette	DEBUG	[2147483649] Frame script loaded
+1539690172860	Marionette	DEBUG	[2147483649] Frame script registered
+1539690172905	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690173021	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690173022	Marionette	DEBUG	[2147483649] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690173905	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690174520	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 26578, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 26535, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539690302140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H6a7Wr4E2FOH"
+1539690306370	Marionette	INFO	Listening on port 36777
+1539690306494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539690306609	Marionette	DEBUG	[2147483649] Frame script loaded
+1539690306632	Marionette	DEBUG	[2147483649] Frame script registered
+1539690306663	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690306792	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690306794	Marionette	DEBUG	[2147483649] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690309086	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690309673	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690309696	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690309730	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690309731	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690309776	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1539690310082	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690310436	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690310463	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690310542	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690310544	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690310576	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1539690310872	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690311204	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690311229	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690311267	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690311269	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690311299	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1539690311687	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690312078	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690312163	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690312204	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690312205	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690312240	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1539690312569	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690312960	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690313001	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690313034	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690313036	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690313067	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1539690313347	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690313650	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690313671	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690313713	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690313714	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690313745	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1539690314038	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690314347	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690314381	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690314424	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690314425	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690314472	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1539690314790	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690315196	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690315238	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690315303	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690315304	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690315338	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1539690315704	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690316046	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690316087	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690316150	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690316156	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690316179	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483677
+1539690316472	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690316792	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690316816	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690316876	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690316877	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690316919	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 26819, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26776, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539690408952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XYLc9FJlke9s"
+1539690413064	Marionette	INFO	Listening on port 37141
+1539690413177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539690413300	Marionette	DEBUG	[2147483649] Frame script loaded
+1539690413302	Marionette	DEBUG	[2147483649] Frame script registered
+1539690413377	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690413515	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690413519	Marionette	DEBUG	[2147483649] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690416262	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690416943	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690416986	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690417031	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690417032	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690417065	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1539690417369	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690417692	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690417711	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690417755	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690417756	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690417778	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1539690418046	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690418451	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690418480	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690418529	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690418530	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690418563	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1539690418919	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690419385	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690419407	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690419456	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690419459	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690419502	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1539690419794	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690420073	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690420099	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690420145	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690420146	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690420180	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1539690420453	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690420721	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690420745	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690420790	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690420790	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690420818	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1539690421067	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690421359	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690421378	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690421408	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690421409	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690421449	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1539690421765	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690422272	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690422295	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690422334	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690422336	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690422361	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1539690422625	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690422919	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690422945	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690422982	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690422983	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690423014	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483677
+1539690423268	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690423556	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690423576	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690423607	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690423607	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690423634	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1539690424122	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690424593	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690424662	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690424729	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690424731	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690424760	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483683
+1539690425235	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690425807	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690425970	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690425998	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690426001	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690426041	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483686
+1539690426379	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690426545	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690426559	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 26935, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539690428803	Marionette	INFO	Stopped listening on port 37141
+1539690477568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kt5qRiJGXoWW"
+1539690908282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yAILYv4Y035g"
+1539690908294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4Z2qQ1D6qQ0P"
+1539690909255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Is6cKbyWnuyX"
+1539690909259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JZynezAFwLH4"
+1539690928360	Marionette	INFO	Listening on port 36205
+1539690928901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539690928985	Marionette	INFO	Listening on port 33189
+1539690929561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539690929638	Marionette	DEBUG	[2147483649] Frame script loaded
+1539690929727	Marionette	DEBUG	[2147483649] Frame script registered
+1539690929953	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690930100	Marionette	DEBUG	[2147483649] Frame script loaded
+1539690930302	Marionette	DEBUG	[2147483649] Frame script registered
+1539690930439	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690930664	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690930665	Marionette	DEBUG	[2147483649] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690931028	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690931030	Marionette	DEBUG	[2147483649] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690933389	Marionette	INFO	Listening on port 42639
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27693, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27690, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27498, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539690972260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pNK8N2i9pOCT"
+1539690977136	Marionette	INFO	Listening on port 38297
+1539690977194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539690977329	Marionette	DEBUG	[2147483649] Frame script loaded
+1539690977336	Marionette	DEBUG	[2147483649] Frame script registered
+1539690977360	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690977477	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690977479	Marionette	DEBUG	[2147483649] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539690978961	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690979601	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690979629	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690979675	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690979676	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690979708	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1539690979984	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690980315	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690980340	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690980391	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690980392	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690980435	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1539690980718	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690981042	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690981061	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690981093	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690981094	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690981123	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1539690981401	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690981731	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690981748	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690981838	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690981840	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690981878	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1539690982128	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690982474	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690982497	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690982538	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690982539	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690982572	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1539690982868	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690983206	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690983226	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690983260	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690983261	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690983291	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1539690983549	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690983845	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690983864	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690983905	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690983905	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690983940	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1539690984249	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690984560	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690984591	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690984629	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690984631	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690984671	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1539690984917	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539690985172	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539690985190	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539690985222	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539690985223	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539690985253	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483677
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27893, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539691176105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E8RmK5fEvuAK"
+1539691180354	Marionette	INFO	Listening on port 42065
+1539691180455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539691180578	Marionette	DEBUG	[2147483649] Frame script loaded
+1539691180594	Marionette	DEBUG	[2147483649] Frame script registered
+1539691180614	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539691180721	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539691180723	Marionette	DEBUG	[2147483649] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539691183005	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691183756	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691183778	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691183816	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691183816	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539691183849	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1539691184345	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691184622	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691184645	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691184697	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691184698	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539691184734	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483656
+1539691185212	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691185517	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691185547	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691185574	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691185575	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539691185598	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1539691186084	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691186448	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691186473	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691186536	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691186537	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539691186565	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1539691187026	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691187118	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691187139	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691187163	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691187652	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691187752	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691187772	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691187795	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691188259	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691188344	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691188362	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691188392	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691188950	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691189059	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691189093	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691189133	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691189686	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691189787	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691189809	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691189883	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691190360	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691190452	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691190476	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691190508	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691191189	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691191286	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691191308	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691191337	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691191829	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691192102	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691192128	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691192163	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691192165	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539691192195	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483672
+1539691192442	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691192723	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691192743	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691192778	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691192778	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539691192810	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1539691193050	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691193345	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691193365	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691193400	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691193400	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539691193429	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483678
+1539691193679	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539691193995	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://glastonbury.seetickets.com/content/extras
+1539691194046	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691194078	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691194083	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539691194121	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28015, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539691710293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.snztuJVmP8z5"
+1539691714520	Marionette	INFO	Listening on port 43015
+1539691714671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539691714765	Marionette	DEBUG	[2147483649] Frame script loaded
+1539691714767	Marionette	DEBUG	[2147483649] Frame script registered
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28191, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28145, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28145, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539691800951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XNVOx4Uymhsy"
+1539691805629	Marionette	INFO	Listening on port 37855
+1539691805718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539691805884	Marionette	DEBUG	[2147483649] Frame script loaded
+1539691805893	Marionette	DEBUG	[2147483649] Frame script registered
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28321, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28277, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539691904598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YsRr8v3FmyB0"
+1539691904599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VFgiWR0z2Dz2"
+1539691904606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p7RfvoLvQFI4"
+1539691905581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vc2rawtSgABp"
+1539691927018	Marionette	INFO	Listening on port 40769
+1539691927017	Marionette	INFO	Listening on port 35585
+1539691934950	Marionette	INFO	Listening on port 42201
+[Child 28567, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539691939692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539691939895	Marionette	DEBUG	[2147483649] Frame script loaded
+1539691939909	Marionette	DEBUG	[2147483649] Frame script registered
+JavaScript error: resource://gre/modules/ReaderMode.jsm -> resource://gre/modules/reader/Readability.js, line 41: Error: First argument to Readability constructor should be a document object.
+1539691941114	Marionette	INFO	Listening on port 38915
+1539691941228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539691941526	Marionette	DEBUG	[2147483649] Frame script loaded
+1539691941539	Marionette	DEBUG	[2147483649] Frame script registered
+JavaScript error: resource://gre/modules/ReaderMode.jsm -> resource://gre/modules/reader/Readability.js, line 41: Error: First argument to Readability constructor should be a document object.
+JavaScript error: resource://gre/modules/ReaderMode.jsm -> resource://gre/modules/reader/Readability.js, line 41: Error: First argument to Readability constructor should be a document object.
+JavaScript error: resource://gre/modules/ReaderMode.jsm -> resource://gre/modules/reader/Readability.js, line 41: Error: First argument to Readability constructor should be a document object.
+JavaScript error: resource://gre/modules/ReaderMode.jsm -> resource://gre/modules/reader/Readability.js, line 41: Error: First argument to Readability constructor should be a document object.
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://gre/modules/ReaderMode.jsm -> resource://gre/modules/reader/Readability.js, line 41: Error: First argument to Readability constructor should be a document object.
+1539691949709	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539691949737	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539691949745	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539691949765	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+[Parent 28466, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28795, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28755, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539857196466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.413S9rlToHoc"
+1539857196470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.stp9LTpFuxAd"
+1539857196473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zgix5LgCXpaD"
+1539857196474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p23nKTKKQ4U2"
+Error: no DISPLAY environment variable specified
+Error: no DISPLAY environment variable specified
+Error: no DISPLAY environment variable specified
+Error: no DISPLAY environment variable specified
+1539857981930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ACy4ROd4SdpH"
+1539857981931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9pS1o6hq3o7H"
+1539857982912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.29vRRAQQwUdT"
+1539857982917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1GhTro6YNj4f"
+1539858002440	Marionette	INFO	Listening on port 34733
+1539858002568	Marionette	INFO	Listening on port 37825
+1539858003265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539858003325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539858003752	Marionette	DEBUG	[2147483649] Frame script loaded
+1539858003796	Marionette	DEBUG	[2147483649] Frame script loaded
+1539858003833	Marionette	DEBUG	[2147483649] Frame script registered
+1539858003836	Marionette	DEBUG	[2147483649] Frame script registered
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1539858008226	Marionette	INFO	Listening on port 42069
+1539858008266	Marionette	INFO	Listening on port 37299
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14429, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14548, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14367, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539858636071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hOT7BHiWeVK8"
+1539858636074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bYX46SS3StZE"
+1539858636076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZTweM8LRNSFL"
+1539858636077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qZpq6iM6BHMp"
+Error: no DISPLAY environment variable specified
+Error: no DISPLAY environment variable specified
+Error: no DISPLAY environment variable specified
+Error: no DISPLAY environment variable specified
+1539858687562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.j2opgAfKU0i3"
+1539858687564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dWkbdJdz8mUI"
+1539858687574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QLJ7QDe2BnlL"
+Error: no DISPLAY environment variable specified
+Error: no DISPLAY environment variable specified
+Error: no DISPLAY environment variable specified
+1539858688543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CqCWE0qD3TJ1"
+Error: no DISPLAY environment variable specified
+1539858758490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cREqiNT19ISu"
+1539858758500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ACMCqq8LY4Am"
+1539858758510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7RKFKPlp5UmO"
+1539858758515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.27gvBbqXPkoI"
+Error: no DISPLAY environment variable specified
+Error: no DISPLAY environment variable specified
+Error: no DISPLAY environment variable specified
+Error: no DISPLAY environment variable specified
+1539858817076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sBz6DV0Sxa9b"
+1539858818051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z89g3LUbkqOT"
+1539858818054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.D9LlRQaZe19W"
+1539858818062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VSC42jXLvOue"
+[Parent 3140, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 3140, Gecko_IOThread] WARNING: pipe error (111): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 3140, Gecko_IOThread] WARNING: pipe error (110): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 3140, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 3140, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 3140, Gecko_IOThread] WARNING: pipe error (109): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/SavantShieldStudy.jsm, line 171: TypeError: this.addonListener is undefined
+1539858870360	Marionette	INFO	Listening on port 38877
+1539858870910	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3167, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/glue/GeckoChildProcessHost.cpp, line 561
+[Parent 3167, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 3168, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/glue/GeckoChildProcessHost.cpp, line 561
+[Parent 3168, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3377, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3388, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539858924491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FCknrNhFwDjT"
+1539858924494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wLHr290Cb9Hm"
+1539858924496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yx5NeTjXO777"
+1539858924511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=46.5.252.70:8080" "--proxy-server=170.0.112.234:58586" "--proxy-server=190.131.249.214:36127" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5Ehv9Og9wL5A"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4187, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4192, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539859007807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XKWkr4yZOXe2"
+1539859007811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n8smpiIJbCXZ"
+1539859007812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ST3YgFYKnc9z"
+1539859007814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i37LaQpjN8Hv"
+[Parent 5187, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/glue/GeckoChildProcessHost.cpp, line 561
+[Parent 5190, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/glue/GeckoChildProcessHost.cpp, line 561
+[Parent 5187, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 5190, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 5189, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/glue/GeckoChildProcessHost.cpp, line 561
+[Parent 5189, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5400, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5405, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539859253330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kTOss8VzNBy5"
+1539859254294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T9nd4X5OwW5C"
+1539859254296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l5WAbfZTIfen"
+1539859254305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LpyOcLhWnIcz"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7428, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7414, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539859298389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.38VJznEMGCou"
+1539859302797	Marionette	INFO	Listening on port 38695
+1539859302896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539859303042	Marionette	DEBUG	[2147483649] Frame script loaded
+1539859303062	Marionette	DEBUG	[2147483649] Frame script registered
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7990, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7945, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539859375420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NL0tgILcnWEu"
+1539859379759	Marionette	INFO	Listening on port 43175
+1539859379882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539859380013	Marionette	DEBUG	[2147483649] Frame script loaded
+1539859380016	Marionette	DEBUG	[2147483649] Frame script registered
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8483, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8439, Chrome_ChildThread] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8439, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539859478103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VUZxQxIiRKVj"
+1539859482070	Marionette	INFO	Listening on port 45975
+1539859482136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539859482279	Marionette	DEBUG	[2147483649] Frame script loaded
+1539859482282	Marionette	DEBUG	[2147483649] Frame script registered
+1539859482325	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539859482428	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539859482430	Marionette	DEBUG	[2147483649] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.user-agent%3Dmozilla.com/5.1%2520%28X11%3B%2520Linux%2520x86_64%29%2520AppleWebKi ... 1%2520Safari/537.37&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.user-agent%3Dmozilla.com.
+1539859485195	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539859485337	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539859485451	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539859485452	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539859485804	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539859485918	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539859485981	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539859485982	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539859486289	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539859486387	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539859486476	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539859486477	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539859486820	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539859486917	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539859487009	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539859487013	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539859487274	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539859487386	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539859487485	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539859487492	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539859487819	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539859487927	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539859488028	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539859488028	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+1539859488358	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://glastonbury.seetickets.com/content/extras
+1539859488429	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://glastonbury.seetickets.com/content/extras
+1539859488498	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://glastonbury.seetickets.com/content/extras
+1539859488499	Marionette	DEBUG	[2147483649] Received DOM event unload for https://glastonbury.seetickets.com/content/extras
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9012, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539859607359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XUebaFJR5juZ"
+1539859611277	Marionette	INFO	Listening on port 35219
+1539859611400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539859611541	Marionette	DEBUG	[2147483649] Frame script loaded
+1539859611560	Marionette	DEBUG	[2147483649] Frame script registered
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9493, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9448, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539859644463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9CPhqQm8nHg0"
+1539859644465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x1oOUUYXSQQJ"
+1539859653209	Marionette	INFO	Listening on port 46473
+1539859653210	Marionette	INFO	Listening on port 33769
+1539859653322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539859653327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539859653660	Marionette	DEBUG	[2147483649] Frame script loaded
+1539859653674	Marionette	DEBUG	[2147483649] Frame script loaded
+1539859653688	Marionette	DEBUG	[2147483649] Frame script registered
+1539859653697	Marionette	DEBUG	[2147483649] Frame script registered
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9953, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9868, Chrome_ChildThread] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9868, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9868, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9954, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9865, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539859719422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VR54lZ6oHGVI"
+1539859719423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.a3XaGiM5oq70"
+1539859727593	Marionette	INFO	Listening on port 37571
+1539859727617	Marionette	INFO	Listening on port 46175
+1539859727746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539859727755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539859728080	Marionette	DEBUG	[2147483649] Frame script loaded
+1539859728083	Marionette	DEBUG	[2147483649] Frame script loaded
+1539859728091	Marionette	DEBUG	[2147483649] Frame script registered
+1539859728103	Marionette	DEBUG	[2147483649] Frame script registered
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10374, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10287, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10376, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10286, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539859751699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IWMWVBaYG64q"
+1539859755641	Marionette	INFO	Listening on port 40309
+1539859755753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539859755863	Marionette	DEBUG	[2147483649] Frame script loaded
+1539859755875	Marionette	DEBUG	[2147483649] Frame script registered
+JavaScript error: resource://gre/modules/ReaderMode.jsm -> resource://gre/modules/reader/Readability.js, line 41: Error: First argument to Readability constructor should be a document object.
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10705, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539859807555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-agent=Mozilla/5.1 (X11; Linux x86_64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/60.0.3112.51 Safari/537.37" "--proxy-server=localhost" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MhGmSmpSMLvD"
+1539859811485	Marionette	INFO	Listening on port 43633
+1539859811588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539859811662	Marionette	DEBUG	[2147483649] Frame script loaded
+1539859811667	Marionette	DEBUG	[2147483649] Frame script registered
+JavaScript error: resource://gre/modules/ReaderMode.jsm -> resource://gre/modules/reader/Readability.js, line 41: Error: First argument to Readability constructor should be a document object.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11441, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11396, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

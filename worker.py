@@ -10,7 +10,8 @@ def worker(opts, PROXY, caps):
 
     while True:
         try:
-            current_site = driver.get('https://glastonbury.seetickets.com/content/extras')
+            driver.get('https://glastonbury.seetickets.com/content/extras')
+            current_site = driver.page_source
             if "buy" in current_site:
                 break
         except:
